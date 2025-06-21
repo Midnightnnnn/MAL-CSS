@@ -1,1 +1,1 @@
-@import url("https://raw.githubusercontent.com/Midnightnnnn/MAL-CSS/main/style.css");
+@import url("https://github.com/Midnightnnnn/MAL-CSS/blob/main/Akame%20Anime.jpg");
